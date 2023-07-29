@@ -1,3 +1,1 @@
-# about-nextjs
-
-Following the tutorial https://nextjs.org/learn/foundations/from-react-to-nextjs 
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
