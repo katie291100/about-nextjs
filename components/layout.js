@@ -82,7 +82,12 @@ export default function Layout({ children, home }) {
               height={50}
               alt="Picture of the github logo"
           />
-          <Link href="https://github.com/katie291100/blog-nextjs">View on Github</Link>
+          <Link href="https://github.com/katie291100/blog-nextjs"><Image
+              src="/images/github-mark.png"
+              width={50}
+              height={50}
+              alt="Picture of the github logo"
+          /></Link>
         </div>
     </div>
   )
