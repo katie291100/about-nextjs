@@ -6,8 +6,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = '[Your Name]'
-export const siteTitle = 'Next.js Sample Website'
+const name = 'Katie Maison'
+export const siteTitle = 'Katie Maison'
 
 export default function Layout({ children, home }) {
   return (
@@ -26,6 +26,10 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+        <script src="https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js"/>
+        <script type="text/javascript" src="https://jacksonbr.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-ia3qmx/b/4/c95134bc67d3a521bb3f4331beb9b804/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-GB&collectorId=00c28be0"></script>
+
+
       </Head>
       <Script
         src="https://connect.facebook.net/en_US/sdk.js"
