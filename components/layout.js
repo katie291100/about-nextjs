@@ -76,6 +76,12 @@ export default function Layout({ children, home }) {
         </div>
       )}
       <div className={styles.viewOnGit}>
+            <Image
+              src="/images/github-mark.png"
+              width={50}
+              height={50}
+              alt="Picture of the github logo"
+          />
           <Link href="https://github.com/katie291100/blog-nextjs">View on Github</Link>
         </div>
     </div>
