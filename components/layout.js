@@ -75,6 +75,9 @@ export default function Layout({ children, home }) {
           <Link href="/">← Back to home</Link>
         </div>
       )}
+      <div className={styles.viewOnGit}>
+          <Link href="https://github.com/katie291100/blog-nextjs">View on Github</Link>
+        </div>
     </div>
   )
 }
