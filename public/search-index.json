@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "title": "Introduction to JavaScript",
+    "description": "A brief overview of JavaScript programming language.",
+    "pathname": "/articles/intro-to-javascript",
+    "content": "JavaScript is a versatile..."
+  },
+  {
+    "id": 1,
+    "title": "HTML5 Basics",
+    "description": "Learn the fundamentals of HTML5.",
+    "pathname": "/articles/html5-basics",
+    "content": "HTML5 is the latest..."
+  },
+  {
+    "id": 2,
+    "title": "CSS3 Styling",
+    "description": "Explore the power of CSS3 for styling web pages.",
+    "pathname": "/articles/css3-styling",
+    "content": "CSS3 allows you to..."
+  }
+]
